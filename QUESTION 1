@@ -1,0 +1,3 @@
+scores = [35,50,20,30,55,75,90,95,66,80]
+for element in scores:
+    print(element)
